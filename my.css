@@ -1,11 +1,12 @@
 body{
-    background-image: url(https://thoibaonganhang.vn/stores/news_dataimages/minhvl/012021/04/11/1354_0654_shutterstock_1654083868-2048x1152.jpg);
+    background: rgb(102, 23, 23);
     margin: auto;
     text-align: center;
     width: 650px;
-    color:rgb(44, 56, 42);
+    color:rgb(167, 148, 46);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1{
-    color: rgb(60, 255, 0);
+    color: rgb(163, 53, 1);
 }

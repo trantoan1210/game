@@ -1,5 +1,5 @@
 mensaje =
-'<font size="6" face="Courier New" >Xin Chào Dân Làng Ở Xứ Sở BLABLA<br></font>' + ' <br>' +
+'<font size="6"  >Xin Chào Dân Làng Ở Xứ Sở BLABLA<br></font>' + ' <br>' +
 
 '<font  size="4">Khi các bạn nhận được lá thư này cũng là lúc....</font><br>' +
 '<font size="4" >Trái Đất chúng ta đang mắc 1 đại dịch rất lớn, và khó khăn bởi 1 con virus...</font><br>' +
@@ -11,9 +11,15 @@ mensaje =
 '<font size="5" >Người mắc bệnh sẽ không có triệu chứng gì, cho đến ngày thứ 4 mắc bệnh người đó sẽ chết</font>'+'<br>' +
 '<font size="5" >Khi người mắc bệnh chết, những người đã từng tiếp xúc trực tiếp với người mắc bệnh, sẽ trở thành nạn nhân tiếp theo của con virus ấy....</font>'+'<br>' +
 '<font size="5" >Mọi người hãy cân nhắc khi đi đâu đó</font>'+'<br>' +
-'<p> <font face="Courier New" size="6">Chúc Làng Các Bạn May Mắn nhé !!!^^ </font></p>'+'<table>'+'<br>'+
+'<p> <font  size="6">Chúc Làng Các Bạn May Mắn nhé !!!^^ </font></p>'+'<table>'+'<br>'+
 '<font size="5">Bảng chi tiết trò chơi</font>'+'<br>'+
-'<table border="1"><tr><td>Vai trò:</td><td>Quản trò</td><td>Người chơi</td><td>Người kháng thể</td><td>Người đeo khẩu trang</td><td>F0</td><td>F1</td><td>F2</td><td>...Đang cập nhật...</td></tr><tr><td>Chú thích:</td><td>Điều khiển trò chơi, chọn người đặc biệt</td><td>Có nhiệm vụ tìm ra người F0</td><td>Có thể giúp những người F1 trở lên thành người bình thường, nhưng mắc bệnh khi tiếp xúc với F0</td><td>Chỉ bị lây khi tiếp xúc với F0 2 lần</td><td>Người Mắc Bệnh</td><td>Người trực tiếp tiếp xúc F0</td><td>Người trực tiếp tiếp xúc F1</td><td>...Đang cập nhật...</td></tr></table>';
+'<table border="1"><tr><td>Vai trò:</td><td>Quản trò</td><td>Người chơi</td><td>Người kháng thể</td><td>Người đeo khẩu trang</td><td>F0</td><td>F1</td><td>F2</td><td>...Đang cập nhật...</td></tr><tr><td>Chú thích:</td><td>Điều khiển trò chơi, chọn người đặc biệt</td><td>Có nhiệm vụ tìm ra người F0</td><td>Có thể giúp những người F1 trở lên thành người bình thường, nhưng mắc bệnh khi tiếp xúc với F0</td><td>Chỉ bị lây khi tiếp xúc với F0 2 lần</td><td>Người Mắc Bệnh</td><td>Người trực tiếp tiếp xúc F0</td><td>Người trực tiếp tiếp xúc F1</td><td>...Đang cập nhật...</td></tr></table>'+'<br>'+
+'<font size="7">Luật chơi</font>'+'<br><br>'+
+'<font size="5">Ngày đầu tiên, tất cả người chơi bắt buộc đi nhà người chơi khác</font>'+'<br>'+
+'<font size="5">Vào mỗi buổi chiều(sau khi được thông tin)các người chơi chọn ra 1 người đi cách ly-người bị cách ly phải ở nhà những người còn lại bắt buộc phải đi chơi</font>'+'<br>'+
+'<font size="5">Thời gian bàn luận 3p-sau khi nhận thông tin và trứơc lược bình chọn</font><br>'+
+'<font size="5">Cứ 2 ngày thay vì chọn người đem cách ly, người đó sẽ được đi xét nghiệm</font><br>'+
+'<font size="5">Nếu người được chọn đem đi xét nghiệm là F0 các người chơi sẽ chiến thắng</font><br>';
         line = 0;
         cursor = '_';
         function teclear() {
